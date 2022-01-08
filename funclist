@@ -1,0 +1,7 @@
+_partie: CODE, 142 0 384
+_init_port: CODE, 736 0 6
+_main: CODE, 620 0 38
+__initialization: CODE, 526 0 88
+_isr: CODE, 8 0 130
+_init_timer_v2: CODE, 692 0 28
+Total: 674
